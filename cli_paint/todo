@@ -1,0 +1,3 @@
+- fonction init_grid qui cree une liste chainee de valeurs _Bool
+_ fonction qui print la grille avec les coordoneeds des points en hex tel un jeu d'echec
+
